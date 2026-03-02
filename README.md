@@ -163,4 +163,10 @@ A pasta `docs/` contém a especificação completa da linguagem:
 
 - `Lang2REv.md` / `Lang2REv.pdf` — Referência da linguagem Lang 2
 - `semantics2.md` / `semantics2.pdf` — Definição semântica da linguagem
+
 - `TP1.pdf` — Enunciado do trabalho prático
+
+## Colaboradores
+
+* Gabriel Henrique — [https://github.com/gabrielhs33](https://github.com/gabrielhs33)
+* JuBinLuB — [https://github.com/JuBinLuB](https://github.com/JuBinLuB)

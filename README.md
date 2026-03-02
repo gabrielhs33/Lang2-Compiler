@@ -169,4 +169,5 @@ A pasta `docs/` contém a especificação completa da linguagem:
 ## Colaboradores
 
 * Gabriel Henrique — [https://github.com/gabrielhs33](https://github.com/gabrielhs33)
-* JuBinLuB — [https://github.com/JuBinLuB](https://github.com/JuBinLuB)
+* Alexssander Fernandes — [https://github.com/JuBinLuB](https://github.com/JuBinLuB)
+

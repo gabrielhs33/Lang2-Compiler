@@ -1,0 +1,17 @@
+Exception in thread "main" java.lang.NoClassDefFoundError: java_cup.runtime.lr_parser
+	at java.base/java.lang.ClassLoader.defineClassInternal(ClassLoader.java:472)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:433)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:1174)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:961)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:867)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:825)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:1102)
+	at Lang2Compiler.main(Lang2Compiler.java:90)
+Caused by: java.lang.ClassNotFoundException: java_cup.runtime.lr_parser
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:827)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:1102)
+	at java.base/java.lang.ClassLoader.defineClassImpl(Native Method)
+	... 10 more

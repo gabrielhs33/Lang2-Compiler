@@ -1,0 +1,7 @@
+java
+-cp ..:../tools/java-cup-11b-runtime.jar
+Lang2Compiler
+-syn
+-i
+-ty
+

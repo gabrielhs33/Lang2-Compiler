@@ -1,0 +1,29 @@
+or a b :: Bool -> Bool -> Bool {
+    return !(!a && !b);
+}
+
+printBool b :: Bool -> Void{
+   if(b) print('T'); else print('F');
+}
+
+main :: Void {
+   a = true;
+   b = true;
+   printBool(or(a b)[0]);
+   print('\n');
+
+   a = true;
+   b = false;
+   printBool(or(a b)[0]);
+   print('\n');
+
+   a = false;
+   b = true;
+   printBool(or(a b)[0]);
+   print('\n');
+
+   a = false;
+   b = false;
+   printBool(or(a b)[0]);
+   print('\n');
+}
